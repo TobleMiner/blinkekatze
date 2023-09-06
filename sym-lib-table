@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32_C3")(type "KiCad")(uri "${KIPRJMOD}/lib/ESP32_C3.kicad_sym")(options "")(descr ""))
+  (lib (name "ti-balancers")(type "KiCad")(uri "${KIPRJMOD}/lib/ti-balancers.kicad_sym")(options "")(descr ""))
+  (lib (name "Regulator_Switching_Silergy")(type "KiCad")(uri "${KIPRJMOD}/lib/Regulator_Switching_Silergy.kicad_sym")(options "")(descr ""))
+  (lib (name "Sensor_Goertek")(type "KiCad")(uri "${KIPRJMOD}/lib/Sensor_Goertek.kicad_sym")(options "")(descr ""))
+  (lib (name "Sensor_Audio_ST")(type "KiCad")(uri "${KIPRJMOD}/lib/Sensor_Audio_ST.kicad_sym")(options "")(descr ""))
+)

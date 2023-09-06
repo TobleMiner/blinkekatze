@@ -1,0 +1,8 @@
+blinkekatze-backups/
+fp-info-cache
+*.xml
+*.log
+lib/3rdparty/*
+*.step
+*.x3d
+~*

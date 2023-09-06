@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ESP32_C3")(type "KiCad")(uri "${KIPRJMOD}/lib/ESP32_C3.pretty")(options "")(descr ""))
+  (lib (name "Package_Texas")(type "KiCad")(uri "${KIPRJMOD}/lib/Package_Texas.pretty")(options "")(descr ""))
+  (lib (name "Package_Goertek")(type "KiCad")(uri "${KIPRJMOD}/lib/Package_Goertek.pretty")(options "")(descr ""))
+  (lib (name "Package_LGA_ST")(type "KiCad")(uri "${KIPRJMOD}/lib/Package_LGA_ST.pretty")(options "")(descr ""))
+)
