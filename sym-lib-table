@@ -5,4 +5,5 @@
   (lib (name "Regulator_Switching_Silergy")(type "KiCad")(uri "${KIPRJMOD}/lib/Regulator_Switching_Silergy.kicad_sym")(options "")(descr ""))
   (lib (name "Sensor_Goertek")(type "KiCad")(uri "${KIPRJMOD}/lib/Sensor_Goertek.kicad_sym")(options "")(descr ""))
   (lib (name "Sensor_Audio_ST")(type "KiCad")(uri "${KIPRJMOD}/lib/Sensor_Audio_ST.kicad_sym")(options "")(descr ""))
+  (lib (name "ti-chargers")(type "KiCad")(uri "${KIPRJMOD}/lib/ti-chargers.kicad_sym")(options "")(descr ""))
 )
