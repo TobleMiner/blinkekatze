@@ -7,4 +7,9 @@
   (lib_symbols
   )
 
+
+  (hierarchical_label "VUSB" (shape output) (at 233.68 82.55 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid d476e4f2-5991-4ca1-b328-c71ef264f25f)
+  )
 )
