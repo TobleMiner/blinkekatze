@@ -4,4 +4,5 @@
   (lib (name "Package_Texas")(type "KiCad")(uri "${KIPRJMOD}/lib/Package_Texas.pretty")(options "")(descr ""))
   (lib (name "Package_Goertek")(type "KiCad")(uri "${KIPRJMOD}/lib/Package_Goertek.pretty")(options "")(descr ""))
   (lib (name "Package_LGA_ST")(type "KiCad")(uri "${KIPRJMOD}/lib/Package_LGA_ST.pretty")(options "")(descr ""))
+  (lib (name "Package_DFN_FET")(type "KiCad")(uri "${KIPRJMOD}/lib/Package_DFN_FET.pretty")(options "")(descr ""))
 )
