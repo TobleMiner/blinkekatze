@@ -1376,6 +1376,11 @@
     (uuid ead2346b-2992-487f-904e-35b76f257bbe)
   )
 
+  (text "BQ25611\nBQ24296\nBQ24157\nBQ24295\nBQ24259\nBQ24195\nBQ25895\nBQ25619\nBQ25896\nBQ25601\nBQ25618\nBQ24296\nBQ24297\nBQ25895\nBQ25618\nBQ24157\nBQ24193\nBQ25672\nBQ24292\n\n\n\nAvailable:\nBQ24295\nBQ24259\nBQ25611\nBQ25601\nBQ25619\nBQ25895\n\n\nHV chargers:\nBQ25895M\n"
+    (at 21.59 156.21 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 3286d96f-a504-4661-aaca-5f87421897c5)
+  )
   (text "2S" (at 97.79 107.95 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a19fa1cc-ec2c-412c-aacf-65e1a089b93e)
