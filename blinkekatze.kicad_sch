@@ -352,6 +352,30 @@
     )
   )
 
+  (symbol (lib_id "Mechanical:MountingHole") (at 267.97 21.59 0) (unit 1)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 4247b31e-129f-4963-8c15-e48dad71f3bc)
+    (property "Reference" "H6" (at 270.51 20.3779 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "Tooling hole" (at 270.51 22.8021 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "ToolingHole:ToolingHole_JLCSMT" (at 267.97 21.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 267.97 21.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "blinkekatze"
+        (path "/20b2a5b0-0a80-4b97-84d4-d5290b2926e5"
+          (reference "H6") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Device:R_Small") (at 124.46 130.81 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 69208e8c-aa7b-407a-b4f3-636ff99fa6ff)
@@ -389,6 +413,30 @@
       (project "oled-nametag"
         (path "/c0b8a503-1da4-4e1a-941c-dddf39a5c519/b1f1b085-615b-4d75-b80e-4b089a5e74f7"
           (reference "R23") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Mechanical:MountingHole") (at 267.97 16.51 0) (unit 1)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 944906c1-a8e3-4914-af92-93fbbee09313)
+    (property "Reference" "H5" (at 270.51 15.2979 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "Tooling hole" (at 270.51 17.7221 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "ToolingHole:ToolingHole_JLCSMT" (at 267.97 16.51 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 267.97 16.51 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "blinkekatze"
+        (path "/20b2a5b0-0a80-4b97-84d4-d5290b2926e5"
+          (reference "H5") (unit 1)
         )
       )
     )

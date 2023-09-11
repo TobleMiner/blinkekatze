@@ -9,4 +9,5 @@
   (lib (name "Battery_Holder_MYOUNG")(type "KiCad")(uri "${KIPRJMOD}/lib/Battery_Holder_MYOUNG.pretty")(options "")(descr ""))
   (lib (name "Package_DSBGA")(type "KiCad")(uri "${KIPRJMOD}/lib/Package_DSBGA.pretty")(options "")(descr ""))
   (lib (name "LED_SMD_RGB")(type "KiCad")(uri "${KIPRJMOD}/lib/LED_SMD_RGB.pretty")(options "")(descr ""))
+  (lib (name "ToolingHole")(type "KiCad")(uri "${KIPRJMOD}/lib/ToolingHole.pretty")(options "")(descr ""))
 )
