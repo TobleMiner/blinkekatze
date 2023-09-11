@@ -45,4 +45,9 @@
     (solder_mask_margin 0.05) (tstamp b9fc9dff-c9ff-42dc-bfda-c58a7ea5dec5))
   (pad "E3" smd circle (at 0.5 1) (size 0.245 0.245) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.05) (tstamp 81983c9a-e54c-4511-b615-945cc9447832))
+  (model "${KIPRJMOD}/lib/3d/3rdparty/C528629.x3d"
+    (offset (xyz 0 0 0.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 180 90))
+  )
 )
