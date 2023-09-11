@@ -6,4 +6,6 @@
   (lib (name "Sensor_Goertek")(type "KiCad")(uri "${KIPRJMOD}/lib/Sensor_Goertek.kicad_sym")(options "")(descr ""))
   (lib (name "Sensor_Audio_ST")(type "KiCad")(uri "${KIPRJMOD}/lib/Sensor_Audio_ST.kicad_sym")(options "")(descr ""))
   (lib (name "ti-chargers")(type "KiCad")(uri "${KIPRJMOD}/lib/ti-chargers.kicad_sym")(options "")(descr ""))
+  (lib (name "tps63031")(type "Legacy")(uri "${KIPRJMOD}/lib/tps63031.lib")(options "")(descr ""))
+  (lib (name "LED_OPSCO")(type "KiCad")(uri "${KIPRJMOD}/lib/LED_OPSCO.kicad_sym")(options "")(descr ""))
 )

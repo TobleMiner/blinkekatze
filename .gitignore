@@ -2,7 +2,7 @@ blinkekatze-backups/
 fp-info-cache
 *.xml
 *.log
-lib/3rdparty/*
+lib/3d/3rdparty/*
 *.step
 *.x3d
 ~*

@@ -154,4 +154,9 @@
     (thermal_bridge_angle 45) (tstamp 33aa54a7-a5dc-43cf-bbb4-015398e2add6))
   (pad "53" smd trapezoid (at -5.95 -4.95) (size 0.7 0.7) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45) (tstamp 0b5b8c77-71e4-4ada-a379-3106abd0e899))
+  (model "${KIPRJMOD}/lib/3d/3rdparty/C2838502.x3d"
+    (offset (xyz 0 2.7 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 180 0))
+  )
 )

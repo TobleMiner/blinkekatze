@@ -5,4 +5,8 @@
   (lib (name "Package_Goertek")(type "KiCad")(uri "${KIPRJMOD}/lib/Package_Goertek.pretty")(options "")(descr ""))
   (lib (name "Package_LGA_ST")(type "KiCad")(uri "${KIPRJMOD}/lib/Package_LGA_ST.pretty")(options "")(descr ""))
   (lib (name "Package_DFN_FET")(type "KiCad")(uri "${KIPRJMOD}/lib/Package_DFN_FET.pretty")(options "")(descr ""))
+  (lib (name "battery-holder-keystone")(type "KiCad")(uri "${KIPRJMOD}/lib/battery-holder-keystone.pretty")(options "")(descr ""))
+  (lib (name "Battery_Holder_MYOUNG")(type "KiCad")(uri "${KIPRJMOD}/lib/Battery_Holder_MYOUNG.pretty")(options "")(descr ""))
+  (lib (name "Package_DSBGA")(type "KiCad")(uri "${KIPRJMOD}/lib/Package_DSBGA.pretty")(options "")(descr ""))
+  (lib (name "LED_SMD_RGB")(type "KiCad")(uri "${KIPRJMOD}/lib/LED_SMD_RGB.pretty")(options "")(descr ""))
 )
