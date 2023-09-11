@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ToolingHole")(type "KiCad")(uri "${KIPRJMOD}/../lib/ToolingHole.pretty")(options "")(descr ""))
+)
