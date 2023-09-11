@@ -271,6 +271,12 @@
     (uuid f27a274a-c717-408f-ae60-251e0b69aa01)
   )
 
+  (text "I2C Addresses\n================\n0x18   LIS3D\n0x29   303ALS-01\n0x55   BQ27546\n0x6B   BQ24295\n"
+    (at 85.09 33.02 0)
+    (effects (font (face "Droid Sans Mono") (size 1.27 1.27)) (justify left bottom))
+    (uuid 3f39c0d3-b502-46fb-a269-f2066c5d2d32)
+  )
+
   (label "VBAT" (at 116.84 130.81 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid e067df54-99a5-40c2-9009-bf629306aa29)
