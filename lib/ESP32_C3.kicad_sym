@@ -107,10 +107,6 @@
         (number "27" (effects (font (size 1.27 1.27))))
       )
       (pin power_in line (at 0 -25.4 90) (length 2.54) hide
-        (name "" (effects (font (size 1.27 1.27))))
-        (number "36" (effects (font (size 1.27 1.27))))
-      )
-      (pin power_in line (at 0 -25.4 90) (length 2.54) hide
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "37" (effects (font (size 1.27 1.27))))
       )
