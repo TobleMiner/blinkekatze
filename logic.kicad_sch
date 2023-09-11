@@ -203,10 +203,6 @@
           (number "27" (effects (font (size 1.27 1.27))))
         )
         (pin power_in line (at 0 -25.4 90) (length 2.54) hide
-          (name "" (effects (font (size 1.27 1.27))))
-          (number "36" (effects (font (size 1.27 1.27))))
-        )
-        (pin power_in line (at 0 -25.4 90) (length 2.54) hide
           (name "GND" (effects (font (size 1.27 1.27))))
           (number "37" (effects (font (size 1.27 1.27))))
         )
@@ -1871,7 +1867,6 @@
     (pin "2" (uuid f587c27f-df3e-4dd7-afa3-dfe0912bb34d))
     (pin "26" (uuid 0346d735-0c40-40af-9233-79b775484eee))
     (pin "27" (uuid 72926f9d-ac55-489a-81ca-c7865bf539a6))
-    (pin "36" (uuid 2e43bd95-627f-464f-bfe4-0f7a7766c9b9))
     (pin "37" (uuid fa360512-e504-4b21-9a33-0f0a27cd8d8c))
     (pin "38" (uuid ebaf290b-45ac-47bd-b4a1-910c3d5269a6))
     (pin "39" (uuid 39dfcc3e-1ac4-4548-ba7e-dd28a7060cf9))
