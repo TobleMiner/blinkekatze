@@ -635,6 +635,11 @@
     (uuid fed1303d-8e4b-47ef-b0c5-d0a4a44de461)
   )
 
+  (text "Input current\nlimit: 3A" (at 100.33 76.2 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid f0da65cb-fa7d-4394-86b7-7a3b80f494de)
+  )
+
   (hierarchical_label "SCL" (shape input) (at 129.54 53.34 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 10b9c4e5-a20f-409b-b946-5f99d6a7c01b)
