@@ -10,4 +10,5 @@
   (lib (name "Package_DSBGA")(type "KiCad")(uri "${KIPRJMOD}/lib/Package_DSBGA.pretty")(options "")(descr ""))
   (lib (name "LED_SMD_RGB")(type "KiCad")(uri "${KIPRJMOD}/lib/LED_SMD_RGB.pretty")(options "")(descr ""))
   (lib (name "ToolingHole")(type "KiCad")(uri "${KIPRJMOD}/lib/ToolingHole.pretty")(options "")(descr ""))
+  (lib (name "Connector_FFC-FPC_HDGC")(type "KiCad")(uri "${KIPRJMOD}/lib/Connector_FFC-FPC_HDGC.pretty")(options "")(descr ""))
 )
