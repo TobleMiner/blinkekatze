@@ -4700,6 +4700,11 @@
       (net 3 "GND") (pinfunction "MountPin") (pintype "passive") (thermal_bridge_angle 45) (tstamp e7d091b8-6308-4391-974a-3fe90b9e203c))
     (pad "MP" smd rect (at 4.635 2.81 270) (size 0.3 1.15) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 3 "GND") (pinfunction "MountPin") (pintype "passive") (thermal_bridge_angle 45) (tstamp 03a8f789-a670-4fd1-860e-9827099614d0))
+    (model "${KIPRJMOD}/lib/3d/3rdparty/C2919481.x3d"
+      (offset (xyz 0 -2 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 180 0))
+    )
   )
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")

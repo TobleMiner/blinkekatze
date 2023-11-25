@@ -569,6 +569,11 @@
       (net 2 "GND") (pinfunction "MountPin") (pintype "passive") (thermal_bridge_angle 45) (tstamp 525d945f-473f-4e87-b13f-a08f1c6637e1))
     (pad "MP" smd rect (at 4.635 2.81 180) (size 0.3 1.15) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "GND") (pinfunction "MountPin") (pintype "passive") (thermal_bridge_angle 45) (tstamp 292f8086-cd9c-4aeb-ba6c-d0cab5c49297))
+    (model "${KIPRJMOD}/../lib/3d/3rdparty/C2919481.x3d"
+      (offset (xyz 0 -2 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 180 0))
+    )
   )
 
   (footprint "ToolingHole:ToolingHole_JLCSMT" (layer "F.Cu")
@@ -753,7 +758,7 @@
       (net 1 "Net-(J2-SHIELD)") (pinfunction "SHIELD") (pintype "passive") (tstamp ef057bce-2361-4e94-8b8c-c0cff0428b79))
     (pad "S1" thru_hole oval (at 4.32 2.24 90) (size 1.7 0.9) (drill oval 1.4 0.6) (layers "*.Cu" "*.Mask")
       (net 1 "Net-(J2-SHIELD)") (pinfunction "SHIELD") (pintype "passive") (tstamp a00b61df-932f-41b3-8c11-520523fcea34))
-    (model "${KIPRJMOD}/lib/usb_typec_16pin.step"
+    (model "${KIPRJMOD}/../lib/3d/3rdparty/usb_typec_16pin.step"
       (offset (xyz 0 2.5 1.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 0))
