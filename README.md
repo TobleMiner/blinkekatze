@@ -5,6 +5,8 @@ This is a replacement PCB for one version of cat themed night lights available v
 
 It adds a number of RGB LEDs, sensors and wireless connectivity, enabling an interactive light display synchronized over a large number of Blinkekatzen.
 
+![Photo of Rev1.0 mainboard](assets/blinkekatze_rev1.0_pcb_installed.jpg)
+
 Inspired by the wonderful [derf](https://github.com/derf)
 
 # Architecture
